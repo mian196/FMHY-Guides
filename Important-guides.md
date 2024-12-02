@@ -1,0 +1,6 @@
+1. AdBlock & Redirect Bypass: [Guide](https://fmhy.net/beginners-guide#adblocking) 
+2. Censorship Bypass Guide: [link](https://2305878273.7844380499.cfd/)
+3. VirusTotal - Your Online Security Scanner: [FAQs](https://rentry.co/piracy-faq-virustotal) / [Guide](https://rentry.co/VTGuide)
+4. The Piracy Glossary: [link](https://rentry.co/The-Piracy-Glossary)
+5. Beginners Guide to Piracy: [Guide](https://rentry.co/Piracy-BG)
+6. Google Drive issues: [Guide](https://rentry.org/google_drive)
