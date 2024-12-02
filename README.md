@@ -3,4 +3,4 @@ Your Guide to Troubleshooting Problems on [FMHY](https://fmhy.net/) / [Discord](
 
 
 
-<button id="theme-toggle" style="position: fixed; top: 10px; right: 10px;">🌙 Dark Mode</button>
+
